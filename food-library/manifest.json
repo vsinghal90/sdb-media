@@ -1,0 +1,325 @@
+[
+ {
+  "name": "Aloo Paratha Meal",
+  "file": "meals/tray/aloo-paratha-meal.png",
+  "kind": "tray",
+  "size": [
+   2109,
+   1575
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   2109,
+   1575
+  ],
+  "cut": "real food re-plated into a clean AI delivery tray (tray_plate.py, owner-approved 31 Oct 2026)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Paneer Bhurji Meal",
+  "file": "meals/tray/paneer-bhurji-meal.png",
+  "kind": "tray",
+  "size": [
+   2159,
+   2218
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   2159,
+   2218
+  ],
+  "cut": "real food re-plated into a clean AI delivery tray (tray_plate.py, owner-approved 31 Oct 2026)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Paneer Paratha Meal",
+  "file": "meals/tray/paneer-paratha-meal.png",
+  "kind": "tray",
+  "size": [
+   2109,
+   1565
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   2109,
+   1565
+  ],
+  "cut": "real food re-plated into a clean AI delivery tray (tray_plate.py, owner-approved 31 Oct 2026)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Plain Paratha Meal",
+  "file": "meals/tray/plain-paratha-meal.png",
+  "kind": "tray",
+  "size": [
+   2109,
+   1595
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   2109,
+   1595
+  ],
+  "cut": "real food re-plated into a clean AI delivery tray (tray_plate.py, owner-approved 31 Oct 2026)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Puri Sabji",
+  "file": "meals/tray/puri-sabji.png",
+  "kind": "tray",
+  "size": [
+   2204,
+   1640
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   2204,
+   1640
+  ],
+  "cut": "real food re-plated into a clean AI delivery tray (tray_plate.py, owner-approved 31 Oct 2026)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Rice Meal",
+  "file": "meals/tray/rice-meal.png",
+  "kind": "tray",
+  "size": [
+   2075,
+   1628
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   2075,
+   1628
+  ],
+  "cut": "real food re-plated into a clean AI delivery tray (tray_plate.py, owner-approved 31 Oct 2026)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Roti & Rice Meal",
+  "file": "meals/tray/roti-rice-meal.png",
+  "kind": "tray",
+  "size": [
+   2075,
+   1628
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   2075,
+   1628
+  ],
+  "cut": "real food re-plated into a clean AI delivery tray (tray_plate.py, owner-approved 31 Oct 2026)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Sattu Paratha Meal",
+  "file": "meals/tray/sattu-paratha-meal.png",
+  "kind": "tray",
+  "size": [
+   2109,
+   1565
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   2109,
+   1565
+  ],
+  "cut": "real food re-plated into a clean AI delivery tray (tray_plate.py, owner-approved 31 Oct 2026)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Sattu Poori Meal",
+  "file": "meals/tray/sattu-poori-meal.png",
+  "kind": "tray",
+  "size": [
+   2204,
+   1494
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   2204,
+   1494
+  ],
+  "cut": "real food re-plated into a clean AI delivery tray (tray_plate.py, owner-approved 31 Oct 2026)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Chai",
+  "file": "drinks/chai.png",
+  "kind": "cup",
+  "size": [
+   1089,
+   629
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   1089,
+   629
+  ],
+  "cut": "cut whole from the original photo (cut_drinks.py)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Cold Coffee",
+  "file": "drinks/cold-coffee.png",
+  "kind": "cup",
+  "size": [
+   274,
+   959
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   274,
+   959
+  ],
+  "cut": "cut whole from the original photo (cut_drinks.py)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Lassi",
+  "file": "drinks/lassi.png",
+  "kind": "cup",
+  "size": [
+   256,
+   833
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   256,
+   833
+  ],
+  "cut": "cut whole from the original photo (cut_drinks.py)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Nimbu Pani",
+  "file": "drinks/nimbu-pani.png",
+  "kind": "cup",
+  "size": [
+   1226,
+   747
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   1226,
+   747
+  ],
+  "cut": "cut whole from the original photo (cut_drinks.py)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Sattu Shake",
+  "file": "drinks/sattu-shake.png",
+  "kind": "cup",
+  "size": [
+   375,
+   926
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   375,
+   926
+  ],
+  "cut": "cut whole from the original photo (cut_drinks.py)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Watermelon Juice",
+  "file": "drinks/watermelon-juice.png",
+  "kind": "cup",
+  "size": [
+   1216,
+   731
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   1216,
+   731
+  ],
+  "cut": "cut whole from the original photo (cut_drinks.py)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Samosa",
+  "file": "snacks/samosa.png",
+  "kind": "tray/plate",
+  "size": [
+   1000,
+   828
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   1000,
+   828
+  ],
+  "cut": "shape-fitted cut of the original photo (rounded tray / ellipse plate)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ },
+ {
+  "name": "Sattu Kachori with sabzi",
+  "file": "snacks/sattu-kachori-sabzi.png",
+  "kind": "tray/plate",
+  "size": [
+   1127,
+   907
+  ],
+  "alpha_bbox": [
+   0,
+   0,
+   1127,
+   907
+  ],
+  "cut": "shape-fitted cut of the original photo (rounded tray / ellipse plate)",
+  "view": "top-down",
+  "checked": "2026-11-01",
+  "live_on_menu": "unverified (check the current menu)"
+ }
+]
